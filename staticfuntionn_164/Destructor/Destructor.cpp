@@ -7,4 +7,6 @@ private:
 	int panjang;
 public:
 	angka(int);
+	~angka();
+
 };
